@@ -98,7 +98,7 @@ The system has centralized exception handling with a global exception handler. E
     cd Managment_Hospital
 
 ### Technologies Used
-`Java 11`
+`Java 21`
 
 `Spring Boot`
 
